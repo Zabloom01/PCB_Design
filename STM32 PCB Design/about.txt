@@ -1,0 +1,2 @@
+An STM32 based microcontroller circuit that uses a USB C to communicate with a computer via differential signals.  There is ESD protection on the connector and an I2C communication protocol from the MCU to the temperature sensor.
+The power supply is fed through a buck converter to drop the voltage down to +3.3V.
