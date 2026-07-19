@@ -1,1 +1,2 @@
 This was an OrCAD project that uses a MCU capable of being programmed.  The device is connected to various peripherals including SD card connector and LCD display interface.
+SAM_D refers to the Smart ARM MCU - General Purpose D-Series chip.
